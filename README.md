@@ -1,4 +1,7 @@
 # Julia_Vs_Python
+First of all, I'd like to thank Prof. Vijay Kumar from MSRIT and Abhijith Chandraprabhu for having provided this opportunity to participate in Computational Machine Learning(CML) course organised at IISc under their tutelage as a part of CCE(Center for Continuing Education). Julia is truly an incredible language. The ease and speed of programming  in Julia is impressive!
+
+
 This repo is for comparing time performances of Julia and Python on FASHION MNIST dataset.
 This project was carried out in MacBookPRO 2014 edition with following hardware configurations. 
 Processor: 2.5GHz, Intel Core i7
