@@ -1,5 +1,6 @@
 # Julia_Vs_Python
-First of all, I'd like to thank Prof. Vijay Kumar from MSRIT and Abhijith Chandraprabhu for having provided this opportunity to participate in Computational Machine Learning(CML) course organised at IISc under their tutelage as a part of CCE(Center for Continuing Education). Julia is truly an incredible language. The ease and speed of programming  in Julia is impressive!
+First of all, I'd like to thank Prof. Vijay Kumar from MSRIT(HOD of Info science) and Abhijith Chandraprabhu
+from Julia Computing for having provided this opportunity to participate in Computational Machine Learning(CML) course organised at IISc under their tutelage as a part of CCE(Center for Continuing Education). Julia is truly an incredible language. The ease and speed of programming  in Julia is impressive!
 
 
 This repo is for comparing time performances of Julia and Python on FASHION MNIST dataset.
